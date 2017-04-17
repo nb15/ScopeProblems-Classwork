@@ -1,0 +1,2 @@
+First the program will print "hi hi". 
+Then it will print "Hello World".
