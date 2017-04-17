@@ -1,3 +1,3 @@
 It will first print "Hello World".
 It will second print "hello hello".
-It will third print "Hello World".
+It will third print "Hello hello".
